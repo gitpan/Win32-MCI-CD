@@ -1,4 +1,4 @@
-Win32/MCI/CD version 0.01
+Win32/MCI/CD version 0.02
 =============================
 
 With this module you can play and control audio cd's via MCI API.

@@ -5,7 +5,7 @@ use strict;
 
 require 5;
 
-our $VERSION = "0.01";
+our $VERSION = "0.02";
 
 use Win32::API;
 use Carp;
